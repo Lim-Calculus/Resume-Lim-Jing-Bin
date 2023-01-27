@@ -1,9 +1,9 @@
 <h1 align="center">
  Lim Jing Bin
- </hr>
-<h1 align="center">
+ </h1>
+<h2 align="center">
 Bachelor of Electrical (Electronic) Engineering (Hons)
- </hr> 
+ </h2> 
 
 ### <a name="Summary">Summary</a>
 Research and development (R&D) software engineer with a strong passion for artificial intelligence, Python programming, RTL design and machine learning, especially in deep learning with computer vision, with demonstrated working experience in the semiconductor industry. Proven ability and skill in software development with Visual C/C++ and Python, Deep Learning, Computer Vision, TensorFlow, Pytorch, and Visual Studio. Strong research and technical professional with a First-Class Honor Bachelor's degree focused on Electrical and Electronics Engineering from University Malaysia Pahang.
