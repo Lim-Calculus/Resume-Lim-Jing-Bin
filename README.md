@@ -1,6 +1,7 @@
 <h1 align="center">
 Lim Jing Bin
  </h1>
+ 
 #### Bachelor of Electrical (Electronic) Engineering (Hons)
 
 ### <a name="Summary">Summary</a>
