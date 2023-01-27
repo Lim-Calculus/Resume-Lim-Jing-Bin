@@ -1,5 +1,6 @@
 <h1 align="center">
 Lim Jing Bin
+Bachelor of Electrical (Electronic) Engineering (Hons)
 </h1>
 
 ### <a name="Summary">Summary</a>
@@ -8,6 +9,7 @@ Research and development (R&D) software engineer with a strong passion for artif
 ### <a name="Work Experience">Work Experience</a>
 
 #### ViTrox Corporation, Malaysia—Research & Development (R&D) Software Engineer
+August 2022 - Present
 
 
 
