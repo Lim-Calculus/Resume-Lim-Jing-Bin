@@ -12,6 +12,12 @@ Research and development (R&D) software engineer with a strong passion for artif
 
 #### ViTrox Corporation, Malaysia—Research & Development (R&D) Software Engineer
 August 2022 - Present
+- Responsible for software development on 2D Vision Module
+- Developed and Fine-tuned various Deep Learning Models such as Convolutional Neural Networks (CNN) models and Vision Transformer (ViT) models to improve existing CNN models in OCR recognition speed and performance using TensorFlow/PyTorch Framework
+- Trained and developed object detection model
+- Developed feasibility study report on various requirements from different customers
+- Exposure in project management software(JIRA)
+
 
 
 
