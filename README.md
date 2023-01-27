@@ -7,7 +7,8 @@ Research and development (R&D) software engineer with a strong passion for artif
 
 ### <a name="Work Experience">Work Experience</a>
 
-#### Backend
+#### ViTrox Corporation, Malaysia—Research & Development (R&D) Software Engineer
+
 
 
 #### Referral
